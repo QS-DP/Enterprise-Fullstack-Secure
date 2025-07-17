@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/images/banner.png" alt="Enterprise Full Stack Banner" width="100%">
+</p>
+
 # Enterprise-Fullstack-Secure
 
 🚀 Enterprise-Grade Full-Stack Template with Azure DevOps & CLI Automation
