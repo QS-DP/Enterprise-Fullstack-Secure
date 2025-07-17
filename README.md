@@ -60,8 +60,6 @@ Question: Want a downloadable ZIP version with everything pre-wired and secure?
 
 🛠️ Getting Started: 
 
-Activate using the follow steps to launch the full-stack app locally and understand the secure DevOps pipeline behind it.
-
 ✅ Prerequisites
 Before you begin, ensure you have:
 
@@ -75,7 +73,11 @@ Before you begin, ensure you have:
 
 ✅ Windows machine (for .bat script support)
 
-📦 Step 1: Extract & Open the Project
+Activate using the follow steps to launch the full-stack app locally and understand the secure DevOps pipeline behind it.
+
+- - > 🔐 Download: enterprise-fullstack-secure.zip
+
+📦 Step 1: Extract & Open the Project 
 Download the .zip file from the GitHub Releases or link provided.
 
 Right-click > Extract All to a known location (e.g., C:\Projects\my-enterprise-app).
