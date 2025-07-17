@@ -3,7 +3,7 @@
 </p>
 
 
-## 🔽 Download the Secure Template
+- - > 🔐 🔽 Download the Secure Template
 
 Get the latest version here:  
 ➡️ [Enterprise Full-Stack Secure Template v1.0.0](https://github.com/QS-DP/Enterprise-Fullstack-Secure/releases/latest)
@@ -81,7 +81,10 @@ Before you begin, ensure you have:
 
 Activate using the follow steps to launch the full-stack app locally and understand the secure DevOps pipeline behind it.
 
-- - > 🔐 Download: [enterprise-fullstack-secure.zip](https://)
+- - > 🔐 🔽 Download the Secure Template
+
+Get the latest version here:  
+➡️ [Enterprise Full-Stack Secure Template v1.0.0](https://github.com/QS-DP/Enterprise-Fullstack-Secure/releases/latest)
 
 📦 Step 1: Extract & Open the Project 
 Download the .zip file from the GitHub Releases or link provided.
