@@ -3,7 +3,7 @@
 </p>
 
 
-- - > 🔐 🔽 Download the Secure Template
+🔽 Download the Secure Template
 
 Get the latest version here:  
 ➡️ [Enterprise Full-Stack Secure Template v1.0.0](https://github.com/QS-DP/Enterprise-Fullstack-Secure/releases/latest)
