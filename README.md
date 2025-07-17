@@ -90,18 +90,24 @@ This simulates an enterprise CI/CD pipeline locally for fast prototyping.
 Double-click the file named:
 
 
-<pre>spin-up.bat
-The script will automatically: </pre>
+<pre> Run the App with spin-up.bat
+- - > Double-click spin-up.bat <pre>
 
-✅ Create and activate a secure Python virtual environment
+Watch the terminal window — confirm that it:
 
-✅ Install backend dependencies
+✅ Creates a Python virtual environment
 
-✅ Install frontend dependencies
+✅ Installs backend dependencies from requirements.txt
 
-✅ Build the frontend
+✅ Installs frontend dependencies via npm install
 
-✅ Launch the Flask server at http://127.0.0.1:5000
+✅ Builds the React app via npm run build
+
+✅ Launches the Flask server on http://127.0.0.1:5000
+
+✅ Pass if: You see "Running on http://127.0.0.1:5000"
+Open the URL in your browser → should load your frontend served from Flask
+  spin-up.bat
 
 🧠 Tip: If you want to edit the script for macOS/Linux, convert it to a .sh file.
 
@@ -134,3 +140,7 @@ Issue	Solution
 pip not recognized	Ensure Python and pip are in your system PATH
 Flask not serving UI	Make sure frontend build folder is properly created
 Azure CLI errors	Run az login and check az devops configuration
+
+⚠️ Disclaimer:
+This template includes security best practices and is designed to simulate production workflows.
+While it’s deployment-ready and safe for internal tools, learning, and MVPs, you should review and customize it for use in live production environments (e.g., add auth, persistent DB, HTTPS, etc.).
