@@ -80,7 +80,7 @@ Before you begin, ensure you have:
 
 Activate Template by the follow steps below to launch the full-stack app locally and understand the secure DevOps pipeline behind it.
 
-- - > 🔐 🔽 Download the Secure Template
+- - > 🔐 🔽 
 
 📦 Step 1: Extract & Open the Project 
 Download the .zip file from the GitHub Releases or link provided.
