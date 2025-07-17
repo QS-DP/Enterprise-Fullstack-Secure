@@ -112,7 +112,8 @@ Add .env to .gitignore (already done for you).\`\`\` </pre>
 🚀 Step 4: Run the Azure DevOps Pipeline
 This step is for deploying to Azure using real CI/CD.
 
-<pre> \`\`\`bash
+<pre>
+bash
 Copy
 Edit
 az login
@@ -121,7 +122,7 @@ az pipelines create \
   --name "FullStack Pipeline" \
   --repository my-enterprise-app \
   --branch main \
-  --yml-path .azure-pipelines/pipeline.yml\`\`\` </pre>
+  --yml-path .azure-pipelines/pipeline.yml </pre>
   
 🧹 Common Issues
 Issue	Solution
