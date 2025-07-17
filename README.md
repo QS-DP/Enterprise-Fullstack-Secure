@@ -52,7 +52,9 @@ This repository provides a secure, production-ready full-stack application scaff
 
 Question: Want a downloadable ZIP version with everything pre-wired and secure?
 
-📦 Get it here: <a href="https://github.com/QS-DP/Enterprise-Fullstack-Secure.git">
+📦 Get it here:
+
+<a href="https://github.com/QS-DP/Enterprise-Fullstack-Secure.git">
         <img src="https://img.shields.io/badge/Fullstack-Secure-blue" alt="Platform">
         </a>
 
