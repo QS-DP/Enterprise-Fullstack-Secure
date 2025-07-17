@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=".github/images/banner.png" alt="Enterprise Full Stack Banner" width="100%">
+  <img src=".github/images/banner.png" alt="Enterprise Full Stack Banner" width="50%">
 </p>
 
 # Enterprise-Fullstack-Secure
