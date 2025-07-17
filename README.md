@@ -2,6 +2,12 @@
   <img src=".github/images/banner.png" alt="Enterprise Full Stack Banner" width="50%">
 </p>
 
+
+## 🔽 Download the Secure Template
+
+Get the latest version here:  
+➡️ [Enterprise Full-Stack Secure Template v1.0.0](https://github.com/QS-DP/Enterprise-Fullstack-Secure/releases/latest)
+
 # Enterprise-Fullstack-Secure
 
 🚀 Enterprise-Grade Full-Stack Template with Azure DevOps & CLI Automation
