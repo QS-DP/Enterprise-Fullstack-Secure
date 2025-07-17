@@ -56,8 +56,9 @@ Question: Want a downloadable ZIP version with everything pre-wired and secure?
         <img src="https://img.shields.io/badge/Fullstack-Secure-blue" alt="Platform">
         </a>
 
-🛠️ Getting Started: Activate This Project
-Follow these steps to launch the full-stack app locally and understand the secure DevOps pipeline behind it.
+🛠️ Getting Started: 
+
+Activate using the follow steps to launch the full-stack app locally and understand the secure DevOps pipeline behind it.
 
 ✅ Prerequisites
 Before you begin, ensure you have:
