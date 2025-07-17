@@ -81,7 +81,7 @@ This simulates an enterprise CI/CD pipeline locally for fast prototyping.
 Double-click the file named:
 
 
-<pre> spin-up.bat
+<pre>spin-up.bat
 The script will automatically: </pre>
 
 ✅ Create and activate a secure Python virtual environment
