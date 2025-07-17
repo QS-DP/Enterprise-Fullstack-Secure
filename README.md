@@ -75,7 +75,7 @@ Before you begin, ensure you have:
 
 Activate using the follow steps to launch the full-stack app locally and understand the secure DevOps pipeline behind it.
 
-- - > 🔐 Download: enterprise-fullstack-secure.zip
+- - > 🔐 Download: [enterprise-fullstack-secure.zip](https://chatgpt.com/c/68785353-f9a4-800c-8cd9-f396ab318286#:~:text=%F0%9F%94%90%20Download%3A%20enterprise%2Dfullstack%2Dsecure.zip)
 
 📦 Step 1: Extract & Open the Project 
 Download the .zip file from the GitHub Releases or link provided.
