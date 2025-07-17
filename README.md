@@ -81,8 +81,8 @@ This simulates an enterprise CI/CD pipeline locally for fast prototyping.
 Double-click the file named:
 
 
-<pre> \`\`\`spin-up.bat
-The script will automatically: \`\`\` </pre>
+<pre> spin-up.bat
+The script will automatically: </pre>
 
 ✅ Create and activate a secure Python virtual environment
 
@@ -101,21 +101,17 @@ Inside /backend, create a .env file and place sensitive configs there (e.g., API
 
 Update app.py to securely load .env values using python-dotenv:
 
-<pre> \`\`\`
+<pre> 
 python
-Copy
-Edit
 from dotenv import load_dotenv
 load_dotenv()
-Add .env to .gitignore (already done for you).\`\`\` </pre>
+Add .env to .gitignore (already done for you). </pre>
 
 🚀 Step 4: Run the Azure DevOps Pipeline
 This step is for deploying to Azure using real CI/CD.
 
 <pre>
 bash
-Copy
-Edit
 az login
 az devops configure --defaults organization=https://dev.azure.com/YOUR_ORG
 az pipelines create \
