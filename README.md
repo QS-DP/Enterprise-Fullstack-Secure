@@ -2,7 +2,6 @@
   <img src=".github/images/banner.png" alt="Enterprise Full Stack Banner" width="50%">
 </p>
 
-
 🔽 Download the Secure Template
 
 Get the latest version here:  
@@ -79,12 +78,9 @@ Before you begin, ensure you have:
 
 ✅ Windows machine (for .bat script support)
 
-Activate using the follow steps to launch the full-stack app locally and understand the secure DevOps pipeline behind it.
+Activate Template by the follow steps below to launch the full-stack app locally and understand the secure DevOps pipeline behind it.
 
 - - > 🔐 🔽 Download the Secure Template
-
-Get the latest version here:  
-➡️ [Enterprise Full-Stack Secure Template v1.0.0](https://github.com/QS-DP/Enterprise-Fullstack-Secure/releases/latest)
 
 📦 Step 1: Extract & Open the Project 
 Download the .zip file from the GitHub Releases or link provided.
