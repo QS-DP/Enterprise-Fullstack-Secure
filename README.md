@@ -75,7 +75,7 @@ Before you begin, ensure you have:
 
 Activate using the follow steps to launch the full-stack app locally and understand the secure DevOps pipeline behind it.
 
-- - > 🔐 Download: [enterprise-fullstack-secure.zip](https://chatgpt.com/c/68785353-f9a4-800c-8cd9-f396ab318286#:~:text=%F0%9F%94%90%20Download%3A%20enterprise%2Dfullstack%2Dsecure.zip)
+- - > 🔐 Download: [enterprise-fullstack-secure.zip](https://)
 
 📦 Step 1: Extract & Open the Project 
 Download the .zip file from the GitHub Releases or link provided.
@@ -89,9 +89,8 @@ This simulates an enterprise CI/CD pipeline locally for fast prototyping.
 
 Double-click the file named:
 
-
 <pre> Run the App with spin-up.bat
-- - > Double-click spin-up.bat <pre>
+- - > Double-click spin-up.bat </pre>
 
 Watch the terminal window — confirm that it:
 
@@ -106,8 +105,8 @@ Watch the terminal window — confirm that it:
 ✅ Launches the Flask server on http://127.0.0.1:5000
 
 ✅ Pass if: You see "Running on http://127.0.0.1:5000"
-Open the URL in your browser → should load your frontend served from Flask
-  spin-up.bat
+(Open the URL in your browser → should load your frontend served from Flask
+  spin-up.bat)
 
 🧠 Tip: If you want to edit the script for macOS/Linux, convert it to a .sh file.
 
